@@ -1,0 +1,4 @@
+(executable
+ (public_name rocqfind)
+ (name main)
+ (libraries findlib))
